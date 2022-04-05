@@ -1,0 +1,22 @@
+---
+- student: 
+  - name: Ratna
+    phno: 89898988989
+    address: 
+        doorno: 343
+        streetno: 2
+        pincode: 555555555
+
+  - name: Esther
+    phno: 8787878787
+    address: 
+      doorno: 343
+      streetno: 2
+      pincode: 555555555
+
+  - name: Rani
+    phno: 798789798798
+    address: 
+         doorno: 343
+         streetno: 2
+         pincode: 555555555
